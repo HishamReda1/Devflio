@@ -1,0 +1,21 @@
+#home{
+    background-image: url(../img/intro-bg.jpg);
+    background-position: center center;
+
+    background-size: cover;
+    height: 100vh;
+
+}
+#overlay{
+background-color: rgba(0, 0, 0,0.5);
+
+}
+#caption h1{
+   font-size: 4.5rem;
+}
+ .navbar::after{
+    background-color: #fff;
+    color: #0078ff;
+
+}
+
